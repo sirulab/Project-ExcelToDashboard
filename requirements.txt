@@ -9,3 +9,4 @@ python-multipart
 sqlmodel
 jinja2
 dotenv
+psycopg2-binary
